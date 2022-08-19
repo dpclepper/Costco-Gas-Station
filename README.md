@@ -1,4 +1,4 @@
-# Costco Gas Station Simulation Modeling & Analysis
+# Costco Gas Station Simulation Modeling & Statistical Analysis
 
 # 1. Executive Summary
 This report details an analysis of the queuing system of a busy Costco gas station located in Madison, WI. This gas station is frequently busy, thus, customers are faced with long lines and wait times. This leads to some undesirable queue behavior such as balking (when a customer leaves the system due to a long wait time). Therefore, it is important to understand this system and how to maximize the number of customers that Costco can serve while still using the least amount of pumps required. 
